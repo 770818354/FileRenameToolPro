@@ -45,7 +45,7 @@ class WelcomeWidget(QWidget):
         title_label.setStyleSheet("color: #1976d2; margin: 20px;")
         
         # 副标题
-        subtitle_label = QLabel("我很会养猪丶开发版-我很会养猪丶")
+        subtitle_label = QLabel("我很会养猪丶开发版-功能更强大")
         subtitle_label.setAlignment(Qt.AlignmentFlag.AlignCenter)
         subtitle_font = QFont()
         subtitle_font.setPointSize(14)
